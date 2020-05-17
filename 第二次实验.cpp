@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #define CARDPATH   "d:\\data.txt"
 //把一个数的各个位拆分开放在数组number里
+//添加的注释
 void NumberToArray(int number[20], int num, int n) {
 	int term;
 	for (int i = n - 1; i >= 0; i--)
